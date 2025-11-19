@@ -1,5 +1,5 @@
 # gorev-16-firetask
 # Kurulum
 
-### Bağımlılıkları yükle: npm install
-### Geliştirme sunucusunu başlat: npm run start
+### Bağımlılıkları yükle: pnpm install
+### Geliştirme sunucusunu başlat: pnpm run start
